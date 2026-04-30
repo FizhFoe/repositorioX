@@ -9,4 +9,4 @@ Repositório apenas para testes para a sessão de 28 de Abril '26
 
 ### Adicionei esta linha para adicionar o ficheiro notas da versao, no dia 30/04/2026
 
-### Imagem adicionada ao repositório às 14:33 do dia 30/04/2026
+### Imagem adicionada ao repositório às 14:33 do dia 30/04/2026 -- Versão 4
